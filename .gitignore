@@ -3,5 +3,5 @@ dataset/
 *.pkl
 __pycache__
 *.onnx
-ppo_kitti_logs\
+ppo_kitti_logs
 ppo_videos\
